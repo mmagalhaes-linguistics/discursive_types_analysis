@@ -1,5 +1,6 @@
 # Discursive Types Analysis
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20764207.svg)](https://doi.org/10.5281/zenodo.20764207)
+
 Este repositório contém o ecossistema de código desenvolvido para a análise quantitativa, extração gramatical e validação estatística da minha tese de Doutoramento intitulada **"O COMENTÁRIO: DA LINGUÍSTICA DO TEXTO AO TEXT MINING"**, defendida na **UNIVERSIDADE NOVA DE LISBOA / FACULDADE DE CIÊNCIAS SOCIAIS E HUMANAS**.
 
 Estes dados focam-se na distribuição linear, coocorrência e variação sintático-discursiva de Tipos Discursivos (TD) e formas pronominais nos corpora *CETEM*, *COMENTA2* e *COMJUR*.
