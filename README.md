@@ -1,5 +1,5 @@
 # Discursive Types Analysis
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20764207.svg)](https://doi.org/10.5281/zenodo.20764207)
 Este repositório contém o ecossistema de código desenvolvido para a análise quantitativa, extração gramatical e validação estatística da minha tese de Doutoramento intitulada **"O COMENTÁRIO: DA LINGUÍSTICA DO TEXTO AO TEXT MINING"**, defendida na **UNIVERSIDADE NOVA DE LISBOA / FACULDADE DE CIÊNCIAS SOCIAIS E HUMANAS**.
 
 Estes dados focam-se na distribuição linear, coocorrência e variação sintático-discursiva de Tipos Discursivos (TD) e formas pronominais nos corpora *CETEM*, *COMENTA2* e *COMJUR*.
@@ -51,4 +51,4 @@ O fluxo de dados baseia-se num ficheiro central unificado (`data/processed/seque
 Se utilizar este código ou metodologia na sua investigação, por favor cite a tese de doutoramento original ou o repositório arquivado no Zenodo:
 
 * **Tese:** Magalhães, M. (2025). *O Comentário: da linguística do texto ao text mining*. Tese de Doutoramento, Universidade Nova de Lisboa / Faculdade de Ciências Sociais e Humanas.
-* **Software (DOI):** [link do Zenodo ]
+* **Software (DOI):** https://doi.org/10.5281/zenodo.20764207
